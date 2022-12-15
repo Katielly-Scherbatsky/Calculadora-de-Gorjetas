@@ -81,6 +81,7 @@ body {
 
 .formSubmit:hover {
   background-color: var(--tertiary-color);
+  cursor: pointer;
 }
 
 #totalTip {
