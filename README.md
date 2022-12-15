@@ -1,5 +1,5 @@
 # Calculadora de Gorjetas
 
 <p> Feito com <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>
-<p> Para acessar clique no link: https://katielly-scherbatsky.github.io/Calculadora-de-gorjetas/
+<p> Para acessar clique no link: https://katielly-scherbatsky.github.io/calculadora-de-gorjetas/
 
